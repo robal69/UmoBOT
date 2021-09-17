@@ -1,0 +1,6 @@
+Pobierz moduly
+discord.js
+axios
+fs
+dotenv
+chalk
