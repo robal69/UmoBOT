@@ -37,4 +37,4 @@ client.events = new Discord.Collection();
 
 
 
-client.login('ODY2NjYyNzIyMTQ0OTYwNTIx.YPV0jg.froNM5KWDvEjyqq-asA4EsnKaQM');
+client.login('token');
